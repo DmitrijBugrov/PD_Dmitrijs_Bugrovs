@@ -5,4 +5,4 @@ Programma aprekina kopejo svaru un cenu pec lietotaja ievadisanas.
 3. Programma izvada visus datus.
 
 
-Licenci ir atvērta, brīva visiem.
+Šīs projekts ir izveidots ar licenci MIT
